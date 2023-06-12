@@ -8,7 +8,7 @@
 <h3 align="left">On a Quest for Endless Improvement 🌱</h3>
 
 
--  Trainee at **Hottgenroth Software AG** 👨‍🎓🏢
+-  Trainee at **Hottgenroth Software** 👨‍🎓🏢
 -  Currently practising **Blazor & Entity Framework** by building a stock portfolio tracker 📈🔍
 -  Fun fact: **I speak 5 languages (German, English, French, Spanish, Russian and a little Greek)** 🌐⚡
 
