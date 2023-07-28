@@ -5,8 +5,6 @@
   <img src="https://i.redd.it/d40wozinhn3b1.png" alt="Image Description" width="500" height="300">
 </p>
 
-<h3 align="left">On a Quest for Endless Improvement 🌱</h3>
-
 
 -  Trainee at **Hottgenroth Software** 👨‍🎓🏢
 -  Currently practising **Blazor & Entity Framework** by building a stock portfolio tracker 📈🔍
