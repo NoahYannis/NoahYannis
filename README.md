@@ -7,7 +7,7 @@
 
 
 -  Trainee at **Hottgenroth Software** 👨‍🎓🏢
--  Currently practising **Blazor & Entity Framework** by building a stock portfolio tracker 📈🔍
+-  Currently learning **Blazor** by building a portfolio tracker app 📈🔍
 -  Fun fact: **I speak 5 languages (German, English, French, Spanish, Russian and a little Greek)** 🌐⚡
 
 
