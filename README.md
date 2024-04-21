@@ -1,14 +1,11 @@
 <h1 align="left">Hi, I'm Noah Yannis Guderjahn 👾</h1> 
 
-<br/>
-<p align="left">
-  <img src="https://i.redd.it/d40wozinhn3b1.png" alt="Image Description" width="500" height="300">
-</p>
 
 
+-  .NET enthusiast 🧑‍💻
 -  Trainee at **Hottgenroth Software** 👨‍🎓🏢
--  Currently practising **Blazor** by building a portfolio tracker app 📈🔍
--  Fun fact: **I speak 5 languages (German, English, French, Spanish, Russian and a little Greek)** 🌐⚡
+-  I love learning new technologies by working on personal projects (Azure and Blazor currently) 
+ 
 
 
 
@@ -30,9 +27,6 @@
   </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
 </p>
 
