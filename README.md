@@ -45,12 +45,6 @@
   <a href="https://github.com/actions" target="_blank" rel="noreferrer"> 
      <img width="40" src="https://www.svgrepo.com/show/306098/githubactions.svg" alt="GitHub Actions" title="GitHub Actions"/>
   </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
-     <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="40" height="40"/> 
-  </a> 
 
   <h3>Project Management:</h3>
   
