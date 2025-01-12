@@ -26,7 +26,7 @@
     <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="azure" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com/de/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values." target="_blank" rel="noreferrer"> 
-    <img width="40" src="https://www.tutorialsteacher.com/Content/images/home/sql.png" alt="SQL" title="SQL"/>
+    <img width="40" src="https://cdn.vectorstock.com/i/preview-1x/33/30/sql-file-document-icon-vector-24673330.webp" alt="SQL File Icon" title="SQL File"/>
   </a> 
     <img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
    <img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
