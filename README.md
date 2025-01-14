@@ -65,5 +65,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noahyannis&show_icons=true&locale=en&layout=compact" alt="noahyannis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahyannis&show_icons=true&locale=en" alt="noahyannis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noahyannis&" alt="noahyannis" /></p>
