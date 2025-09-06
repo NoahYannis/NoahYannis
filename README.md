@@ -2,7 +2,7 @@
 
 
 -  .NET enthusiast 💻
--  Trainee at **Hottgenroth Software** 👨‍🎓🏢
+-  Software Developer at **Hottgenroth Software** 👨‍🎓🏢
 -  I love learning and improving by working on personal projects 🪴
 
 <h3 align="left">Experience:<h3>
